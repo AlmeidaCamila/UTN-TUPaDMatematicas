@@ -1,3 +1,4 @@
+# Version Deepseek
 # Juego de Adivinanza en Binario
 # Usando solo: secuenciales, condicionales, repetitivas y listas
 
