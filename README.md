@@ -5,7 +5,7 @@
 El programa debe mostrar un número en **binario** y desafiar al usuario a adivinar su equivalente **decimal**, o viceversa.  
 El objetivo es **reforzar la conversión entre ambos sistemas numéricos**, practicando tanto la lógica de la conversión como el razonamiento algorítmico.  
 
----
+--
 
 ## 📖 Descripción del trabajo  
 En este proyecto se desarrollaron **tres versiones diferentes** del mismo juego en Python, cada una con un enfoque distinto:  
